@@ -1,4 +1,0 @@
-library(dplyr)
-
-# Read in the CSV file.
-MechaCar <- read.csv(file="./Resources/MechaCar_mpg.csv")
