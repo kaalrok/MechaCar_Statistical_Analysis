@@ -42,6 +42,7 @@ lot_summary
 # Ho: mu = 1500
 # Ha: mu <> 1500
 
+
 t.test(Suspension_Coil$PSI, mu=1500)
 
 # Analysis - p-value (0.06) greater than 0.05 therefore we fail to reject Ho
